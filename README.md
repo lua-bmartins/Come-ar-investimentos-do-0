@@ -27,7 +27,7 @@ Após a definição do roteiro final em formato de 60 segundos, foram realizados
 Por fim, a versão final do projeto foi produzida utilizando o HeyGen, que permitiu a criação de um avatar realista em cenário de podcast, com sincronização labial e apresentação em vídeo, consolidando o episódio em um formato visual e auditivo profissional.
 
 ## 🚀 Resultados
-O resultado final é um vídeo de podcast curto gerado por IA, com aproximadamente 60 segundos de duração, abordando de forma clara e acessível como os investimentos podem impactar positivamente a realidade financeira de pessoas de baixa renda.
+O resultado final é um vídeo de podcast curto gerado por IA, com aproximadamente 40 segundos de duração, abordando de forma clara e acessível como os investimentos podem impactar positivamente a realidade financeira de pessoas de baixa renda.
 
 O conteúdo apresenta:
 
